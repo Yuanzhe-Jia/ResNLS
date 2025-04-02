@@ -1,6 +1,6 @@
 # ResNLS
 
-Code for [ResNLS: An Improved Model for Stock Price Forecasting](https://arxiv.org/abs/2312.01020), accepted by Computational Intelligence 2023.
+Code for [ResNLS: An Improved Model for Stock Price Forecasting](https://arxiv.org/abs/2312.01020v2), accepted by Computational Intelligence 2023.
 
 Stock prices forecasting has always been a challenging task. Although many research projects adopt machine learning and deep learning algorithms to address the problem, few of them pay attention to the varying degrees of dependencies between stock prices. 
 In this paper we introduce a hybrid model that improves stock price prediction by emphasizing the dependencies between adjacent stock prices. 
